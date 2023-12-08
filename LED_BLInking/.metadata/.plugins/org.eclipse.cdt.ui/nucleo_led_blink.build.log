@@ -1,0 +1,10 @@
+16:40:58 **** Incremental Build of configuration Debug for project nucleo_led_blink ****
+make -j4 all 
+arm-none-eabi-size   nucleo_led_blink.elf 
+   text	   data	    bss	    dec	    hex	filename
+   7640	     20	   1636	   9296	   2450	nucleo_led_blink.elf
+Finished building: default.size.stdout
+ 
+
+16:40:59 Build Finished. 0 errors, 0 warnings. (took 645ms)
+
